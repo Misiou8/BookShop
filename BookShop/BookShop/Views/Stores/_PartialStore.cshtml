@@ -1,0 +1,18 @@
+﻿@using BookShop.Utility
+@model BookShop.Models.Store
+
+@if (User.IsInRole(StaticDetails.AdminUser))
+{
+    <dt>
+        @Html.DisplayNameFor(model => model.Amount)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Amount)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Price)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Price)
+    </dd>
+}
