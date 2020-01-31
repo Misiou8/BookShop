@@ -1,9 +1,6 @@
 # BookShop
 BookShop ASP.NET + Tests
 
-## Przypadki testowe
-
-
 ## Stan aplikacji
 
 Aplikacja działa prawidłowo, ma natomiast pewne problemy, które sukcesywnie będą niwelowane. Wszystkie testy jednostkowe oraz testy Selenium wykonują się bezproblemowo.
