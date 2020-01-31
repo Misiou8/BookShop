@@ -8,6 +8,6 @@ BookShop ASP.NET + Tests
 
 
 ## Screenshots
-![Test1](Screenshots/scrn1.PNG)
-![Test2](Screenshots/scrn2.PNG)
+![Test1](Screenshots/scrn1.PNG)<br />
+![Test2](Screenshots/scrn2.PNG)<br />
 ![Test3](Screenshots/scrn3.PNG)
