@@ -1,10 +1,10 @@
 # BookShop
 BookShop ASP.NET + Tests
 
-##Przypadki testowe
+## Przypadki testowe
 
 
-##Stan aplikaji
+## Stan aplikacji
 
 
 ## Screenshots
